@@ -1,0 +1,13 @@
+/* src/App.css */
+.navbar {
+  background-color: #343a40 !important; /* Dark background color */
+  z-index: 1050; /* Ensure navbar stays on top */
+}
+
+.nav-link {
+  color: #ffffff !important; /* White text for links */
+}
+
+.nav-link:hover {
+  color: #00bcd4 !important; /* Change color on hover */
+}
